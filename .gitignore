@@ -1,0 +1,10 @@
+# my
+.env
+package-lock.json
+
+node_modules/
+vs/
+bin/
+
+Documents/
+Documentation/
